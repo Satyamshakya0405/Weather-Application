@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:title="Today"
+            android:icon="@drawable/ic__home"
+            android:id="@+id/nav_current"/>
+    <item
+        android:title="7 Days"
+        android:icon="@drawable/ic_calendar"
+        android:id="@+id/nav_future"/>
+    <item
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/nav_settings"/>
+</menu>
